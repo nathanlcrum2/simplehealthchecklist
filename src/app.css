@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .checkbox-primary {
+        @apply bg-pri hover:bg-sec rounded focus:ring-offset-0 focus:ring-0 checked:hover:bg-sec checked:bg-sec focus:checked:bg-sec border-black;
+    }
+}
