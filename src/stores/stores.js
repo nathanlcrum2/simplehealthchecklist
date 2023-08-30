@@ -285,7 +285,7 @@ let _items =  [
 	{
 		name: 'Other Drugs', 
 		categories: ['ingest', 'other', 'eliminate'],
-		miniText: 'Yeah, no.',
+		miniText: '',
 		pageText: '',
 		links: [],
 		week: 10,
@@ -430,6 +430,7 @@ let _items =  [
 	{
 		name: 'Social Media', 
 		categories: ['see/hear', 'other', 'eliminate'],
+		miniText: 'You may not need to eliminate social media, but it can be harmful to compare yourself or your partners to the highlight reels of internet personalities. Many people are using filters, photoshop, and makeup to make themselves look way different.',
 		pageText: '',
 		links: [],
 		week: 16,
@@ -440,6 +441,7 @@ let _items =  [
 	{
 		name: 'Daily Sunlight', 
 		categories: ['see/hear', 'add', 'outdoors'],
+		miniText: 'It is a game changer.',
 		pageText: '',
 		links: [],
 		week: 16,
@@ -448,6 +450,7 @@ let _items =  [
 	{
 		name: 'Barefoot/Grounding', 
 		categories: ['touch', 'add', 'outdoors'],
+		miniText: 'This just feels good, maybe there is science behind it, but it feels great to be barefoot.',
 		pageText: '',
 		links: [],
 		week: 16,
@@ -456,6 +459,7 @@ let _items =  [
 	{
 		name: 'Time Outdoors', 
 		categories: ['see/hear', 'add', 'outdoors'],
+		miniText: 'It is our natural environment.',
 		pageText: '',
 		links: [],
 		week: 17,
@@ -464,6 +468,7 @@ let _items =  [
 	{
 		name: 'Lift Weights', 
 		categories: ['add', 'other'],
+		miniText: 'A must if you want to stay strong and healthy as you age. Muscles follow the "use it or lose it" principle.',
 		pageText: '',
 		links: [],
 		week: 17,
@@ -472,6 +477,7 @@ let _items =  [
 	{
 		name: 'Time w/ Friends/Family', 
 		categories: ['see/hear', 'add', 'other'],
+		miniText: '',
 		pageText: '',
 		links: [],
 		week: 17,
@@ -480,6 +486,7 @@ let _items =  [
 	{
 		name: 'Runs/Swims/Cardio', 
 		categories: ['add', 'outdoors'],
+		miniText: 'Keep your lungs and heart healthy. Prove to yourself that you can do difficult things.',
 		pageText: '',
 		links: [],
 		week: 18,
@@ -488,6 +495,7 @@ let _items =  [
 	{
 		name: 'Salt Water', 
 		categories: ['ingest', 'add', 'outdoors'],
+		miniText: 'If you eat a healthy diet, you will find that there is not a lot of sodium in it. Salt is necessary. Salt water is a great way to avoid cramping and headaches.',
 		pageText: '',
 		links: [],
 		week: 18,
@@ -496,6 +504,7 @@ let _items =  [
 	{
 		name: 'Starlight', 
 		categories: ['see/hear', 'add', 'outdoors'],
+		miniText: 'Something about looking up at the universe puts things in perspective. It is too easy to forget in light polluted cities.',
 		pageText: '',
 		links: [],
 		week: 18,
