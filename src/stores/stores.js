@@ -385,7 +385,7 @@ let _items =  [
 	{
 		name: "Porn",
 		categories: ["see/hear", "bedroom", 'eliminate'],
-		miniText: 'I lot of men are addicted, and it is not healthy.',
+		miniText: 'A lot of men are addicted, and it is not healthy.',
 		pageText: '',
 		links: [],
 		week: 14,
