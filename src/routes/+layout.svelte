@@ -17,7 +17,7 @@
 		margin: 0;
 		padding: 0;
 		position: relative;
-		background-image: url('greenwaterplant.jpg');
+		background-image: url('../lib/images/greenwaterplant.jpg');
 		background-size: cover;
 	}
 </style>
