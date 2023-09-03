@@ -565,7 +565,7 @@
 		<div class="flex flex-wrap justify-around">
 			{#each categories['space']['options'] as option}
 			<div class="flex flex-col items-center">
-				<p class="text-pri">{option}</p>
+				<p class="text-pri text-lg">{option}</p>
 				
 					{#each $items.filter(item => item.categories.includes(option.toLowerCase())) as i}
 						<Item bind:item={i}/>
@@ -577,7 +577,7 @@
 	<div class="flex flex-wrap justify-around">
 			{#each categories['action']['options'] as option}
 			<div class="flex flex-col items-center">
-				<p class="text-pri">{option}</p>
+				<p class="text-pri text-lg">{option}</p>
 				
 					{#each $items.filter(item => item.categories.includes(option.toLowerCase())) as i}
 						<Item bind:item={i}/>
